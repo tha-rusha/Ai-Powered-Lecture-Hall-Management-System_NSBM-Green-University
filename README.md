@@ -2,7 +2,7 @@
 ### Data-Driven Scheduling, Resource Allocation & Demand Prediction
 
 ## 📌 Project Overview
-This repository contains the implementation of a **Data-Driven and AI-Powered Lecture Hall Management System**, developed as a **Final Year Research Project** for the **BSc (Hons) in Management Information Systems (Special)** at **NSBM Green University**.
+This repository contains the implementation of a **Data-Driven and AI-Powered Lecture Hall Management System**, developed as a **Final Year Research Project** for the **BSc in Management Information Systems (Special)** at **NSBM Green University**.
 
 The system addresses inefficiencies in traditional lecture hall scheduling by introducing **predictive analytics**, **intelligent agents**, and **optimized allocation mechanisms** to improve responsiveness, efficiency, and utilization of university resources.
 
