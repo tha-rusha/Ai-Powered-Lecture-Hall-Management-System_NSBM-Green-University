@@ -62,21 +62,6 @@ All system UI screenshots are available in the `screenshots/` directory.
 
 ---
 
-## ⚙️ Setup Instructions
-### Backend
-```
-cd backend
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-python app.py
-```
-
-### Frontend
-Open `frontend/index.html` in a browser or use Live Server.
-
----
-
 ## 🧪 Testing & Evaluation
 - Functional and non-functional testing conducted
 - Performance and usability validated using real scenarios
@@ -99,8 +84,8 @@ Open `frontend/index.html` in a browser or use Live Server.
 ---
 
 ## 👨‍🎓 Author
-**E.G.T. Egodage**  
-BSc (Hons) Management Information Systems (Special)  
+**E.G.T.D. Egodage**  
+BSc in Management Information Systems (Special)  
 NSBM Green University  
 Supervisor: Mr. Gayan Perera  
 
