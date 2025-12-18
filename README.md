@@ -103,6 +103,7 @@ The following academic documents are included as part of this Final Year Researc
 BSc in Management Information Systems (Special)  
 NSBM Green University  
 Supervisor: Mr. Gayan Perera  
+Grade: A
 
 ---
 
