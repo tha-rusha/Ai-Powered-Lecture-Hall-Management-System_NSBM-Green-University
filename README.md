@@ -1,5 +1,5 @@
-# 🏫 AI-Powered Lecture Hall Management System
-### Data-Driven Scheduling, Resource Allocation & Demand Prediction
+# 🏫 AI-Powered Lecture Hall Management System - NSBM Green University
+### DATA-DRIVEN AND AI-POWERED LECTURE HALL MANAGEMENT SYSTEM FOR OPTIMAL SCHEDULING, RESOURCE ALLOCATION, AND FUTURE PREDICTION IN UNIVERSITY OPERATIONS 
 
 ## 📌 Project Overview
 This repository contains the implementation of a **Data-Driven and AI-Powered Lecture Hall Management System**, developed as a **Final Year Research Project** for the **BSc in Management Information Systems (Special)** at **NSBM Green University**.
@@ -45,12 +45,35 @@ An **AI-powered lecture hall management platform** that predicts lecture hall de
 
 ## 📷 Screenshots
 All system UI screenshots are available in the `screenshots/` directory.
+### Signup
+![Signup](screenshots/signup.png)
+
+### Signin
+![Signup](screenshots/signin.png)
+
+### Main Dashboard
+![Main Dashboard](screenshots/dashboard.png)
+
 ### Admin Dashboard
 ![Admin Dashboard](screenshots/admin.png)
 
 ### Timetable View
 ![Timetable](screenshots/timetable-view.png)
 
+### Lecture Hall Request
+![Lecture Hall Request](screenshots/request.png)
+
+---
+
+## 📄 Project Documentation
+
+The following academic documents are included as part of this Final Year Research Project:
+
+- 📘 **Final Research Thesis**  
+  [Download Thesis (PDF)](docs/Final_Research_Thesis.pdf)
+
+- 🎤 **Final Viva Presentation**  
+  [Download Presentation (PPTX)](docs/Final_Viva_Presentation.pptx)
 
 ---
 
