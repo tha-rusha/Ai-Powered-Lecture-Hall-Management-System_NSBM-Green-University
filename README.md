@@ -46,7 +46,7 @@ An **AI-powered lecture hall management platform** that predicts lecture hall de
 ## 📷 Screenshots
 All system UI screenshots are available in the `screenshots/` directory.
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admin.png)
 
 ### Timetable View
 ![Timetable](screenshots/timetable-view.png)
