@@ -49,7 +49,7 @@ All system UI screenshots are available in the `screenshots/` directory.
 ![Signup](screenshots/signup.png)
 
 ### Signin
-![Signup](screenshots/signin.png)
+![Signup](screenshots/login.png)
 
 ### Main Dashboard
 ![Main Dashboard](screenshots/dashboard.png)
@@ -58,7 +58,7 @@ All system UI screenshots are available in the `screenshots/` directory.
 ![Admin Dashboard](screenshots/admin.png)
 
 ### Timetable View
-![Timetable](screenshots/timetable-view.png)
+![Timetable](screenshots/timetable.png)
 
 ### Lecture Hall Request
 ![Lecture Hall Request](screenshots/request.png)
