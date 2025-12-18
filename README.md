@@ -43,22 +43,14 @@ An **AI-powered lecture hall management platform** that predicts lecture hall de
 
 ---
 
-## 🏗️ Project Structure
-```
-ai-powered-lecture-hall-management-system/
-├── frontend/
-├── backend/
-├── database/
-├── docs/
-├── screenshots/
-├── README.md
-└── .gitignore
-```
-
----
-
 ## 📷 Screenshots
 All system UI screenshots are available in the `screenshots/` directory.
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Timetable View
+![Timetable](screenshots/timetable-view.png)
+
 
 ---
 
